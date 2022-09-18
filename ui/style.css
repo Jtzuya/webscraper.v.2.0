@@ -1,0 +1,14 @@
+.__case {
+    background-color: orange;
+    display: flex;
+}
+
+.card {
+    margin: 20px;
+    padding: 20px;
+    background-color: blue;
+}
+
+.form__case {
+    padding-bottom: 1rem;
+}
